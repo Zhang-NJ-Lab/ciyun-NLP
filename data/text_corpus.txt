@@ -1,0 +1,49 @@
+Lei Zhang is a full-time professor at the Nanjing University of Information Science and Technology (NUIST). He obtained his PhD degree in Natural Science (Physics) from Cavendish Laboratory, University of Cambridge. Prior to this, he received his MSc in Composite Materials from Imperial College London, and His BEng degree from Nanyang Technological University, Singapore. Before joining NUIST, he is a post-doc at the State University of New York at Buffalo. 
+
+His research interests include materials informatics, photovoltaic materials, energy materials, optoelectronic materials and computational materials science. Recently, he is focusing on the development and application of natural language processing (NLP) and other data-driven methods combined with first-principles calculations to predict and understand photovoltaic materials and beyond.
+
+He has published >100 scientific papers in SCI journals such as Nano Energy and Advanced Functional Materials. He has refereed hundreds of manuscripts for journals including Journal of the American Chemical Society (JACS), Matter, ACS Nano, NPJ Computational Materials, Journal of Chemical Information and Modelling, Journal of Physical Chemistry Letters, Journal of Physical Chemistry C, ACS Applied Materials & Interfaces, Journal of Materials Chemistry A, Journal of Materials Chemistry C, Nano Research, Journal of Power Sources, Advanced Electronic Materials, Journal of Power Sources, Nanoscale, Physical Chemistry Chemical Physics, Solar Engergy Materials and Solar Cells, Cell Reports Physical Science, etc.
+
+Education:
+
+2010每2014   University of Cambridge                     Cavendish Laboratory                       PhD (Natural Science, Physics)
+
+2009每2010   Imperial College London                       Composite Centre                                 MSc
+
+2005每2009   Nanyang Technological University        Materials Science and Engineering      B.Eng
+
+
+
+Work Experience:
+
+2019每now    Nanjing University of Information Science and Technology   School of Chemistry and Materials Science           Professor
+
+2017每2019   Nanjing University of Information Science and Technology        School of Physics and Optoelectronic Engineering    Professor
+
+2015每2017   Nanjing University of Information Science and Technology        School of Physics and Optoelectronic Engineering     Lecturer
+
+2014每2015   State Univeristy of New York, Buffalo              Department of Chemistry                                    Postdoctoral Research Scientist
+
+
+
+Reserch Areas:
+
+Materials Informatics 
+
+Natural Language Processing
+
+Solar Cell Materials
+
+Energy Materials
+
+
+
+Methods:
+
+Data-driven, natural language processing, machine learning, first-principles calculation, photoelectrochemical experiments
+
+
+
+Teaching:
+
+Solid State Physics; Materials Frontiers; Materials English
